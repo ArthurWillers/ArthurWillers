@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Arthur Vinicius Willers, I'm a IT student
-- 👀 I’m interested in Artificial inteligence and game creation.
+- 👀 I’m interested in Artificial inteligence and game development.
 - 🌱 I’m currently learning HTML, CSS, PHP and MySQL
