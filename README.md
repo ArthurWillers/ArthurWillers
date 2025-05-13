@@ -1,6 +1,8 @@
 # 👋 Hello! I'm **Willers**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%90%A7+Linux+User;%F0%9F%8C%8E+Free+Software+Defender;%F0%9F%A4%98%F0%9F%8F%BB+Rock)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%90%A7+Linux+User;%F0%9F%8C%8E+Free+Software+Defender;%F0%9F%A4%98%F0%9F%8F%BB+Rock" alt="Typing SVG" />
+</p>
 
 ---
 
