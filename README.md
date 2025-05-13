@@ -12,6 +12,7 @@
 - 📜 My first programming language was **Pascal**  
 - 🎖️ Passionate about technology and exploring military careers  
 - 🐧 Advocate for **free software** and open-source principles  
+- 🤘🏻 **Rock**
 
 ---
 
@@ -29,6 +30,7 @@
 - 🎬 Watching **sci-fi series**, movies, and **anime**  
 - 📚 Exploring **history**, **philosophy**, and **tech topics**  
 - 🎖️ Interested in **military tactics** and **defense technologies**  
+- 🎸 Playing guitar
 
 ---
 
