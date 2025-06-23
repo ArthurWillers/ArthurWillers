@@ -18,8 +18,9 @@
 
 ## 🚀 Currently Learning
 
-- **Java**: Object-Oriented Programming and backend basics  
-- **Linux**: Always Learning
+- **Java:** Object-Oriented Programming and backend basics
+- **Laravel:** PHP Framework
+- **Linux:** Always Learning
 
 ---
 
@@ -27,7 +28,6 @@
 
 - 🎮 **Gaming**, especially **Minecraft**  
 - 🏕️ **Camping** and enjoying nature  
-- 🎬 Watching **sci-fi series**, movies, and **anime**  
 - 📚 Exploring **history**, **philosophy**, and **tech topics**  
 - 🎖️ Interested in **military tactics** and **defense technologies**  
 - 🎸 Playing guitar
