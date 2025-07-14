@@ -24,16 +24,6 @@
 
 ---
 
-## 🎮 Hobbies
-
-- 🎮 **Gaming**, especially **Minecraft**  
-- 🏕️ **Camping** and enjoying nature  
-- 📚 Exploring **history**, **philosophy**, and **tech topics**  
-- 🎖️ Interested in **military tactics** and **defense technologies**  
-- 🎸 Playing guitar
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
