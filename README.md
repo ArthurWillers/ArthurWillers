@@ -8,7 +8,7 @@
 
 ## About Me
 
-- 💻 **Fedora Linux (KDE Plasma)** user  
+- 💻 I use **Omarchy (Arch Linux)** btw!
 - 📜 My first programming language was **Pascal**  
 - 🎖️ Passionate about technology and exploring military careers  
 - 🐧 Advocate for **free software** and open-source principles  
