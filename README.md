@@ -7,15 +7,3 @@
 - 🤘🏻 **Rock**
 
 ---
-
-## Currently Learning
-
-- **Linux:** Always Learning
-
----
-
-## Contact
-
-- **E-mail Address:** arthurwillers@proton.me
-
----
