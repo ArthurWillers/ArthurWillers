@@ -42,6 +42,7 @@ Não trabalho com isso, mexo apenas nas minhas coisas (tipo meu carro de 20 anos
 * 🤘 **Rock**
 * 🚗 **Puxador de Fio de Lasanha:** Refaço a elétrica e o acabamento (trocar farol, peças quebradas, prender para-choque direito). Mecânica eu não mexo, mas não aceito carro caindo aos pedaços.
 * 🎓 **Futuro Engenheiro:** Elétrica, Mecânica ou Mecatrônica? (to confuso).
+* 👾 **Retrofuturismo:** É legal.
 * 🖨️ **Inimigo nº 1:** Impressoras.
 
 </details>
