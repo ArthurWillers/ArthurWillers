@@ -16,24 +16,6 @@
 
 ---
 
-## 🚫 Filosofia: Zero Gambiarra
-
-> [!WARNING]
-> Tenho ódio mortal de serviço porco.
-
-Não trabalho com isso, mexo apenas nas minhas coisas (tipo meu carro de 20 anos). Mas quando desmonto algo e acho uma "adaptação técnica" do dono anterior, eu fico puto.
-
-**Nas minhas coisas, o padrão é industrial:**
-* Fio tem que ser bem soldado e com terminal.
-* Acabamento com fita de tecido (padrão automotivo decente).
-* Tudo pensado para evitar ruído e interferência.
-
-**E isso vale para software também.**
-
-*Obs: Eu gosto de fazer bem feito, mas não sei eletrônica avançada. Se a placa queimou, queimou.*
-
----
-
 ## ⚡ Off-Topic
 
 <details>
@@ -41,7 +23,7 @@ Não trabalho com isso, mexo apenas nas minhas coisas (tipo meu carro de 20 anos
 
 * 🤘 **Rock**
 * 🚗 **Puxador de Fio de Lasanha:** Refaço a elétrica e o acabamento (trocar farol, peças quebradas, prender para-choque direito). Mecânica eu não mexo, mas não aceito carro caindo aos pedaços.
-* 🎓 **Futuro Engenheiro:** Elétrica, Mecânica ou Mecatrônica? (to confuso).
+* 🎓 **Futuro Engenheiro:** Elétrica, Mecânica, Mecatrônica ou civil? (to confuso).
 * 👾 **Retrofuturismo:** É legal.
 * 🖨️ **Inimigo nº 1:** Impressoras.
 
