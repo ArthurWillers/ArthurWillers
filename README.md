@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 > **Técnico em Informática**.
-> No momento não trabalho com isso, então não tenho "área de atuação".
+> No momento não trabalho, então não tenho "área de atuação".
 
 ---
 
