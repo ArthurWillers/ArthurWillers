@@ -22,8 +22,6 @@
 <summary><strong>Clica aí</strong></summary>
 
 * 🤘 **Rock**
-* 🚗 **Puxador de Fio de Lasanha:** Refaço a elétrica e o acabamento (trocar farol, peças quebradas, prender para-choque direito). Mecânica eu não mexo, mas não aceito carro caindo aos pedaços.
-* 🎓 **Futuro Engenheiro:** Elétrica, Mecânica, Mecatrônica ou civil? (to confuso).
 * 👾 **Retrofuturismo:** É legal.
 * 🖨️ **Inimigo nº 1:** Impressoras.
 
