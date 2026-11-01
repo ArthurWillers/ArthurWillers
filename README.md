@@ -5,18 +5,12 @@
 ### Computer Science student · Developer · Linux enthusiast
 
 <a href="https://www.linkedin.com/in/arthurwillers/">
-  <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=flat-square&logo=linkedin&logoColor=f9e2af" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2Y5ZTJhZiI%2BPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02LjQ2IDEwLjl2OC4zN0g5LjJWMTAuOUg2LjQ2TTcuODMgNi40NWExLjY0IDEuNjQgMCAxIDAgMS42MyAxLjY0QTEuNjQgMS42NCAwIDAgMCA3LjgzIDYuNDVaIi8%2BPC9zdmc%2B&logoColor=f9e2af" alt="LinkedIn">
 </a>
 &nbsp;
 <a href="https://www.instagram.com/arthurwillers/">
   <img src="https://img.shields.io/badge/Instagram-1a1b27?style=flat-square&logo=instagram&logoColor=f9e2af" alt="Instagram">
 </a>
-
-<img src="https://img.shields.io/badge/Arch_Linux-1a1b27?style=flat-square&logo=archlinux&logoColor=89b4fa" alt="Arch Linux">
-&nbsp;
-<img src="https://img.shields.io/badge/Hyprland-1a1b27?style=flat-square&logoColor=a6e3a1" alt="Hyprland">
-&nbsp;
-<img src="https://img.shields.io/badge/Omarchy-1a1b27?style=flat-square&logoColor=f9e2af" alt="Omarchy">
 
 </div>
 
@@ -29,14 +23,14 @@ $arthur = [
     'name' => 'Arthur Willers',
     'age' => date('Y') - 2008,
     'location' => 'Brazil',
-    'formation' => [
+    'education' => [
         [
             'course' => 'Técnico em Informática — IFFAR-SA',
             'status' => 'completed',
         ],
         [
             'course' => 'Ciência da Computação — IFFAR-FW',
-            'status' => 'pending',
+            'status' => 'in progress',
         ],
     ],
     'nationality' => 'Brazilian',
@@ -50,30 +44,12 @@ $arthur = [
 
 ## Toolbox
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,php,py,c,js,html,css,bootstrap,tailwind,laravel,docker,git&perline=6" alt="Technologies: Java, PHP, Python, C, JavaScript, HTML, CSS, Bootstrap, Tailwind, Laravel, Docker and Git">
-
-</div>
-
-## GitHub activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arthurwillers&bg_color=1a1b27&color=cdd6f4&line=f9e2af&point=a6e3a1&area=true&hide_border=true" alt="GitHub activity graph">
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurwillers&hide_border=true&background=1a1b27&ring=f9e2af&fire=f9e2af&currStreakNum=a6e3a1&sideNums=cdd6f4&currStreakLabel=f9e2af&sideLabels=cdd6f4&dates=7f849c" alt="GitHub streak">
-
-</div>
+<img src="https://skillicons.dev/icons?i=java,php,py,c,js,html,css,bootstrap,tailwind,laravel,docker,git&perline=12" alt="Technologies: Java, PHP, Python, C, JavaScript, HTML, CSS, Bootstrap, Tailwind, Laravel, Docker and Git">
 
 <br>
 
 <div align="center">
 
-<sub>O futuro é glorioso.</sub>
-<br>
-<sub><a href="https://github.com/arthurwillers">github.com/arthurwillers</a></sub>
+<sub><em>O futuro é glorioso.</em></sub>
 
 </div>
